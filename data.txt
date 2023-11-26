@@ -1,0 +1,13 @@
+We recommend utilizing two datasets for this challenge, which can be accessed on the Ocean Market, available on either the Mumbai Testnet or the Polygon Mainnet (you can choose the network that suits your preference). Additionally, you have the option to enhance your reports by integrating data from external sources.
+
+Dataset 1
+The provided dataset represents only the initial 5000 transactions from the inception of the protocol in August 2020. Since the launch of Curve Finance, there have been more than 5 million token transfers. For certain aspects of this challenge, you are required to gather data from different time periods in the protocol's history. To achieve this, you can visit  https://etherscan.io/token/0xD533a949740bb3306d119CC777fa900bA034cd52 and export date or block number information in CSV format, which can be found at the bottom of the page. This data will be instrumental in enhancing your report.
+
+Mumbai :: click here to download
+Polygon :: click here to download
+
+Dataset 2
+This dataset comprises information on the 9,011 current veCRV wallet holders and their respective balances. This dataset is particularly relevant for addressing the protocol-related inquiries outlined in the Evaluation Criteria section of the challenge. You will use this data to assess the implications of implementing veCRV on the protocol.
+
+Mumbai :: click here to download
+Polygon :: click here to download

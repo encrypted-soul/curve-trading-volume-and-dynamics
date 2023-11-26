@@ -1,0 +1,39 @@
+Exploratory Data Analysis
+10 points
+Conduct a comprehensive exploratory data analysis (EDA) on the datasets to reveal compelling insights that enhance our understanding of the disruptive financial technology within the Curve umbrella, including its automated market maker (AMM) strategies, vote-escrowed governance (veCRV), and the role of automation in supporting a global financial system built on blockchain.
+Historical Evolution
+5 points
+Examine the historical evolution of trading volume on Curve Finance and identify the three most significant shifts in trading volume, whether they increased or decreased. Additionally, ascertain the real-world events that precipitated these volume changes.
+veCRV Impact
+5 points
+Measure the influence of the veCRV launch on October 10, 2020, which occurred a few months after the initial launch of Curve Finance in August 2020. Analyze both the immediate and broader effects on the protocol and liquidity dynamics.
+Unusual Activities
+5 points
+Identify and analyze unusual activities on Curve Finance, such as wash trading, front-running, and pump-and-dump schemes. Determine the root causes of these behaviors and assess their impact on the protocol.
+Trading Strategy
+5 points
+Discover and document the most lucrative trading strategy that can be employed on Curve Finance, taking into consideration factors like gas fees, slippage, and risk tolerance.
+Trading Volume vs Liquidity
+5 points
+Examine the connection between trading volume and liquidity in Curve Finance by:
+1) Investigating the factors that impact trading volume.
+2) Assessing how liquidity influences trading volume.
+Trading Volume Fluctuations
+5 points
+Study how trading volume fluctuates throughout the day and week. Identify the days and times when trading volume peaks and is most popular.
+BIS Use Cases
+15 points
+The insights obtained from this challenge can assist the Bank for International Settlements (BIS) in exploring use cases for Curve's AMM (Automated Market Maker) design in the context of Project Mariana, a cross-border CBDC (Central Bank Digital Currency) pilot program. Using the insights obtained, answer the following questions:
+
+1) What specific aspects of Curve's AMM design make it suitable for cross-border CBDC projects like Project Mariana?
+2) How can using Curve's AMM technology enhance the efficiency and effectiveness of cross-border CBDC transactions?
+3) Why is the collaboration between a central bank institution like BIS and a DeFi platform like Curve significant for the broader financial ecosystem?
+4) What are the potential benefits and challenges associated with integrating Curve's AMM design into the CBDC ecosystem, and how can these be addressed?
+Prediction Model
+25 points
+Create a machine learning model to forecast future trading volumes for a selected Curve Finance pool. Consider various factors like past trading volume, Total Value Locked (TVL), and market conditions in your model. Your score will be based on your model selection, its accuracy, and the incorporation of relevant factors, alongside an explanation of why they were included, beyond the standard historical trading volume, TVL, and market conditions.
+Report
+20 points
+Submit a comprehensive report synthesizing your findings from the data analysis in a format that is accessible and engaging for a non-technical audience, such as traditional investors or a prospective ‘crypto-curious’ audience.
+
+Please consult the Report Guidelines section for an in-depth overview and guidance on crafting your report.

@@ -1,0 +1,28 @@
+PLEASE INCLUDE YOUR NAME (NICKNAME) ON THE FRONT PAGE OF THE REPORT
+
+Objective
+Submit a comprehensive report synthesizing your findings from the data analysis in a format that is accessible and engaging for technical and non-technical audiences.
+
+Audience
+Your report should consider an audience without a statistical or data analysis background. Imagine communicating your findings to individuals who are passionate about Crypto Finance but may not be familiar with data analytics terminology or techniques.
+
+Report Requirements
+Introduction: Provide a brief overview of the purpose of the analysis and what the report aims to communicate. Ensure that the language is simple, jargon-free, and engaging.
+Key Findings: Highlight the main insights and discoveries from your data analysis in a straightforward and digestible manner. Utilize layman's terms to explain any analytical concepts or findings.
+Data Visualizations: Include clear and intuitive visualizations that complement your findings. Ensure that charts, graphs, and tables are easily interpreted and include concise explanations.
+In-depth Analysis: Detail your analysis of each question, ensuring that the explanations of your findings are clear, compelling, and non-technical. Use analogies or simple comparisons where possible to elucidate your points.
+Conclusion: Summarize the key takeaways and potential implications of your findings. Provide any recommendations or next steps straightforwardly.
+Appendix (if necessary): Include any additional information, charts, or data that support your analysis but may not be critical for the main body of the report.
+Report Evaluation Criteria
+Clarity: Ensure that individuals easily understand explanations and visualizations without a technical background.
+Engagement: Maintain the reader's interest using engaging language, visuals, and storytelling to convey your findings and insights.
+Accuracy: Ensure that the insights and visualizations accurately represent the data and analysis conducted.
+Completeness: Ensure the report comprehensively covers the key findings, insights, and recommendations from your analysis.
+Aesthetic and Layout: Ensure the report is visually appealing, has a logical flow and structure, and adheres to good design principles.
+Note
+Remember to balance simplicity with depth in your explanations to ensure that the insights do not dilute in the quest for simplicity. The goal is to make the findings accessible without compromising the integrity and impact of the analysis.
+
+Additional Tips
+Utilize real-world implications and applications of your findings to make the insights relatable and practical for the audience.
+Consider using a narrative or storytelling to guide the reader through your findings, weaving the insights into a cohesive and engaging story.
+Utilize visual aids like infographics to convey complex information in a simplified manner.

@@ -1,0 +1,8 @@
+For questions about this data challenge, reach out on our Discord channel: #data-science-hub.
+
+There are 4 points to pay attention to while submitting:
+You will need Desights Profile to submit. If you don't have one follow this tutorial to get one: https://docs.desights.ai/guides/creating-desights-profile
+Before submitting make sure you have the valid asset URL for your submission. Here's how to do that: https://docs.desights.ai/guides/checking-if-your-asset-url-is-correct
+If you want to get Bonus reward, Make sure to publish your asset in Ocean Market with 250 OCEAN price on Polygon network (important). And don't forget to list your bonus asset's Ocean Market url in the Submission form (very important). Here's how to publish your asset to Ocean Market for Bonus reward: https://docs.oceanprotocol.com/user-guides/publish-data-nfts
+Make sure you submit correctly! Submission is directly via Desights Platform. Check out our guide on how to submit your solutions - https://docs.desights.ai/guides/submission-to-the-challenge
+Important: Make sure you submit your solutions before deadline. Submission form will not be available on Desights platform once the challenge expires (it's not a google form).

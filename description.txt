@@ -1,0 +1,17 @@
+Overview
+This data competition aims to involve data scientists, engineers, and decentralized finance professionals to develop data analysis reports + machine learning models that enhance our comprehension of disruptive financial technology built under the Curve umbrella. In recent years, Curve has matured to hold +/- $4 Billion USD in Total value locked (TVL). Curve’s game theory of vote-escrowed governance (veCRV), Automated Market Making, and simple-to-follow interface has attracted users and communities globally to participate in their product and ecosystem. This challenge will accomplish keen insights into the dynamics of Curve Finance, AMM’s, and how automation can support a global financial system built on blockchain.
+
+Background
+Curve Finance is a decentralized exchange (DEX) that allows users to swap stablecoins with low fees and tight spreads. It is one of the most popular DEX’s in the world, and its data is valuable to web3 data scientists because it provides insights into the DeFi market. We are hosting a data challenge on Curve Finance to encourage data scientists to explore this data and develop new insights into the DeFi market. We believe that the Curve Finance data challenge will help to advance intelligence and insights into liquidity movements in DeFi.
+
+Challenge objectives
+This challenge includes several dimensions of data science: from data cleaning and exploratory data analysis, to market dynamics, data visualization and predictive modeling. Participants will unravel the data, making it clean for quantitative and qualitative analysis and subsequently exploring to uncover alpha within the data recorded in the protocol. The challenge invites participants to explore predefined questions and tasks and propose and explore their own hypotheses and curiosities regarding the data.
+
+Key Areas of Focus
+Exploratory Data Analysis: Uncovering fundamental patterns, distributions, and behavior trends within the data.
+Decentralized Finance: Exploring the complexity of finance on blockchain, transactions, vote-escrowed tokens (veCRV), fluctuating APY, and market dynamics.
+Data Visualization: Translating findings into clear and compelling visual representations in business presentation format.
+Insight Extraction: Analyzing and interpreting the findings to derive meaningful insights and conclusions.
+Predictive Modeling: Exploring the potential to predict future APY of a given pool on Curve Finance, taking into account factors such as historical APYs, TVL, and trading volume
+Who should participate?
+Data scientists, engineers, analysts, students, DeFi degens, and professionals who are interested in uncovering business intelligence within one of the prominent protocols in decentralized finance. Whether you are a mature data analyzer or a beginner eager to practice skills and learn, the “Curve Trading Volume & Dynamics” Data Challenge provides an outlet to showcase your skills, curiosity, and alpha hunting ability.
